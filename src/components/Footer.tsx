@@ -52,7 +52,7 @@ const Footer = ({ onPrivacyClick, onTermsClick, onCookieClick }) => {
           <div>
             <h3 className="text-2xl font-bold mb-6">Cooper Management</h3>
             <p className="text-gray-400 mb-6">
-              Leading manufacturer of innovative filtration, cooling, and automotive solutions.
+            Elevating manufacturing brands through expert management, strategic marketing, and innovative business solutions.
             </p>
           </div>
 
